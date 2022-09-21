@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "5.0.0"
+    },   
+    "Microsoft.Extensions.DependencyInjection": "5.0.1" 
+    
+  }
+}
